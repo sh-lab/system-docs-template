@@ -7,6 +7,11 @@
 本ディレクトリ配下の内容はすべて **テンプレート（雛形）** であり、  
 特定プロジェクトの完成成果物は含みません。
 
+本ディレクトリ（docs-template）に含まれるテンプレート文書は、
+system-docs-template リポジトリ全体に適用される
+Creative Commons Attribution 4.0 International（CC BY 4.0）
+ライセンスの下で提供されます。
+
 ## ディレクトリ構成
 
 ```text
