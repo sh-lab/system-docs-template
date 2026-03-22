@@ -28,6 +28,7 @@ docs-template/
 │
 ├─ 03_designs/
 │  ├─ ui/
+│  │  ├─ screen-list.template.md
 │  │  └─ screen-design.template.md
 │  ├─ services/
 │  │  ├─ application-service.template.md
@@ -62,7 +63,7 @@ docs-template/
 
 ### 03_designs
 - 実装前段階の 設計表現の型（テンプレート） を提供する
-- 画面、サービス、エンティティ、テーブル設計をカバー
+- 画面一覧、画面設計、サービス、エンティティ、テーブル設計をカバー
 - 実装コードや具体的な SQL 等は含めない
 
 ### 04_implementation
