@@ -46,7 +46,10 @@ docs-template/
 │     └─ table-design.template.md
 │
 ├─ 04_implementation/
-│  └─ README.md
+│  ├─ README.md
+│  ├─ implementation-rules.template.md
+│  ├─ naming-conventions.template.md
+│  └─ testing-policy.template.md
 │
 └─ 99_adr/
    ├─ README.md
@@ -75,6 +78,7 @@ docs-template/
 - 設計ドキュメントを前提に、実装へ落とし込む際の補助情報を置く
 - 実装そのものの設計を定義する場ではなく、実装支援を目的とする
 - 具体的な規約やサンプル、Copilot への指示は派生プロジェクト側で拡張する
+- 実装ルール、命名規約、テスト方針などのテンプレートを格納する
 
 ### 99_adr
 - 設計上の重要な判断理由（Architecture Decision Record）を記録する
