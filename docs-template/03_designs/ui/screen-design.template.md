@@ -34,9 +34,9 @@
 ## 5. イベント・操作定義
 | イベント | トリガー | 処理内容 | 呼び出し先 |
 |--------|----------|----------|------------|
-| 検索 | 検索ボタンクリック | 条件で検索 | **Application Service（AS-XXX）** |
-| 新規作成 | 新規ボタンクリック | 登録画面へ遷移 | **Application Service（AS-YYY）** |
-| 保存 | 保存ボタンクリック | 登録／更新 | **Application Service（AS-ZZZ）** |
+| 検索 | 検索ボタンクリック | 条件で検索 | Query系 Application Service（AS-XXX） |
+| 新規作成 | 新規ボタンクリック | 登録画面へ遷移 | －（画面遷移のみ） |
+| 保存 | 保存ボタンクリック | 登録／更新 | Command系 Application Service（AS-YYY） |
 
 ---
 
