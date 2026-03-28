@@ -115,7 +115,7 @@
 2. **ユースケースの流れ変更？** → Application Service  
 3. **状態が変わる／整合性を守る？** → Command Service  
 4. **一覧・検索・集計の形を変える？** → Query Service  
-5. **複数箇所で使う業務計算・判定？** → PUre Service  
+5. **複数箇所で使う業務計算・判定？** → Pure Service  
 6. **DBアクセス方法変更？** → Repository（Entity / Query を選択）
 
 ---
